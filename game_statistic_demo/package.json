@@ -1,0 +1,22 @@
+{
+  "name": "game_statistic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "production.js",
+  "dependencies": {
+    "@derhuerst/redis-stream": "^1.1.0",
+    "bluebird": "^3.7.2",
+    "colors": "^1.4.0",
+    "koa": "^2.11.0",
+    "mongodb": "^3.4.0",
+    "redis": "^2.8.0",
+    "redis5-stream": "^1.0.9",
+    "timezone-support": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leon",
+  "license": "ISC"
+}

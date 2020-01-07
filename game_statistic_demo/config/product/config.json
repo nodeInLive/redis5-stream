@@ -1,0 +1,18 @@
+{
+	"host": "",
+	"port": "6379",
+	"auth": "",
+	"db": 7,
+	"mongo": {
+		"ip": "",
+		"port": 27017,
+		"options": {
+			"poolSize": 5,
+			"connectTimeoutMS": 5000
+		},
+		"haInterval": 10,
+		"database": "de",
+		"mode": "single"
+	},
+	"timezone": "Asia/Kolkata"
+}
